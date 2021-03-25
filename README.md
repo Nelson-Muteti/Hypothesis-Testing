@@ -12,7 +12,7 @@
 
 * Bluecars are an electric ride sharing company based in France. 
 
-*This project was commisioned with the inntent of analysing bluecar ride sharing data from
+* This project was commisioned with the intent of analysing bluecar ride sharing data from
 
 Paris, France.
 
