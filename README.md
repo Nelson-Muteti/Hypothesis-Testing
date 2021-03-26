@@ -48,11 +48,11 @@ Paris, France.
 
 ## Support
 
-*Contact Nelson Muteti : nelsonmuteti012@gmail.com for any clarification.
+* Contact Nelson Muteti : nelsonmuteti012@gmail.com for any clarification.
 
-*No need to request permission to fork this project.
+* No need to request permission to fork this project.
 
-*Suggestions on improvement are welcome.
+* Suggestions on improvement are welcome.
 
 ## Licence
 
